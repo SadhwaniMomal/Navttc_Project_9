@@ -1,0 +1,13 @@
+body {
+  font-size: 77pt;
+  background-color: aquamarine;
+  cursor: pointer;
+}
+
+p {
+  color: green;
+}
+
+p:active {
+  color: red;
+}
